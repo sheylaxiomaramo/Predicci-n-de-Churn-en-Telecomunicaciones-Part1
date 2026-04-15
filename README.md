@@ -1,4 +1,4 @@
-# Análisis de Evasión de Clientes - Part-1
+# Predicción de Churn en Telecomunicaciones - Part-1
 Descripción
 Este proyecto analiza los datos de clientes de TelecomX LATAM para identificar patrones asociados a la evasión de clientes (Churn). Utiliza técnicas de limpieza, transformación y análisis exploratorio de datos, complementadas con visualizaciones, para obtener insights que ayuden a reducir la tasa de cancelación.
 
